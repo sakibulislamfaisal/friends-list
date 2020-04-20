@@ -1,0 +1,14 @@
+.friend-list-container {
+  display: flex;
+}
+.friend-list {
+  padding: 40px;
+  margin-left: 40px;
+  border-right: 1px solid gray;
+  width: 60%;
+}
+.friend-request {
+  padding: 40px;
+  margin-left: 40px;
+  font-size: 20px;
+}
